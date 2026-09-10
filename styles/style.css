@@ -9,3 +9,19 @@ body {
     background-color: #000000;
     color: #ffffff;
 }
+
+.apresentacao_conteudo {
+    display: flex;
+}
+
+.apresentacao_conteudo {
+    margin: 12%;
+}
+
+.apresentacao_conteudo_titulo_paragrafo {
+    margin: 10% 10% 10% 0%;
+}
+
+.apresentacao_conteudo_imagem {
+    filter: grayscale(100%);
+}
