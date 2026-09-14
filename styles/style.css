@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     margin: 0%;
     padding: 0%;
@@ -12,14 +14,20 @@ body {
 
 .apresentacao_conteudo {
     display: flex;
-}
-
-.apresentacao_conteudo {
-    margin: 12%;
+    padding: 12%;
 }
 
 .apresentacao_conteudo_titulo_paragrafo {
-    margin: 10% 10% 10% 0%;
+    padding: 10% 10% 10% 0%;
+}
+
+.apresentacao_conteudo_titulo {
+  font-family: "Oswald", sans-serif;
+}
+
+.apresentacao_conteudo_paragrafo_1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
 }
 
 .apresentacao_conteudo_imagem {
