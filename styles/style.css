@@ -12,22 +12,32 @@ body {
     color: #ffffff;
 }
 
+/* .apresentacao {
+    
+} */
+
 .apresentacao_conteudo {
     display: flex;
-    padding: 12%;
-}
-
-.apresentacao_conteudo_titulo_paragrafo {
-    padding: 10% 10% 10% 0%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5% 12%;
 }
 
 .apresentacao_conteudo_titulo {
   font-family: "Oswald", sans-serif;
+  font-size: 55px;
+  text-align: center;
+  padding: 0% 0% 3% 0%;
 }
 
-.apresentacao_conteudo_paragrafo_1 {
+.apresentacao_conteudo_titulo_paragrafo {
+    width: 565px;
+}
+
+.apresentacao_conteudo_paragrafo {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
+    font-size: 24px;
 }
 
 .apresentacao_conteudo_imagem {
