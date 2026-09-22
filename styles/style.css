@@ -42,4 +42,17 @@ body {
 
 .apresentacao_conteudo_imagem {
     filter: grayscale(100%);
+    border-radius: 5%;
+}
+
+.apresentacao_conteudo_paragrafo_2 {
+    font-family: "Roboto", sans-serif;
+    padding: 3% 19% 5% 18%;
+    font-size: 18px;
+}
+
+.rodape {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 1.5%;
 }
