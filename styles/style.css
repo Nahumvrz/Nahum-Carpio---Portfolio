@@ -55,4 +55,10 @@ body {
     background-color: #ffffff;
     color: #000000;
     padding: 1.5%;
+    margin: 10% 0% 0% 0%;
+}
+
+.rodape_texto {
+    display: flex;
+    justify-content: center;
 }
